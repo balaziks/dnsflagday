@@ -7,6 +7,10 @@
 </nav>
 </div>
 
+Kde to jsem?
+============
+Na 1. února 2019 se chystá technická změna, která se dotkne toho, jak fungují domény v Internetu. Na tuto změnu se můžete připravit za předpokladu, že jste [vlastníte doménu](#vlastnici-domen) nebo spravujete DNS server. V opačném případě se vás připravovaná změna s nejvyšší pravděpodobností nedotkne a není od vás vyžadována žádná akce.
+
 Co se připravuje?
 =================
 Současný systém <a href="https://cs.wikipedia.org/wiki/Domain_Name_System">DNS</a> je z historických důvodů pomalý a neumožňuje nasadit novou funkcionalitu. Pro zmírnění problému skupina <a href="#akci-podporují">výrobců DNS software</a> a <a href="#akci-podporují">významných poskytovatelů DNS infrastruktury</a> proto po **1. únoru 2019** ukončí podporu některých historických implementací DNS porušujících standardy.
