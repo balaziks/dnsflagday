@@ -9,7 +9,7 @@
 
 Kde to jsem?
 ============
-Na 1. února 2019 se chystá technická změna, která se dotkne toho, jak fungují domény v Internetu. Na tuto změnu se můžete připravit za předpokladu, že jste [vlastníte doménu](#vlastnici-domen) nebo spravujete DNS server. V opačném případě se vás připravovaná změna s nejvyšší pravděpodobností nedotkne a není od vás vyžadována žádná akce.
+Na 1. února 2019 se chystá technická změna, která se dotkne toho, jak fungují domény v Internetu. Na tuto změnu se můžete připravit za předpokladu, že jste [vlastníte doménu](#vlastníci-domen) nebo spravujete DNS server. V opačném případě se vás připravovaná změna s nejvyšší pravděpodobností nedotkne a není od vás vyžadována žádná akce.
 
 Co se připravuje?
 =================
